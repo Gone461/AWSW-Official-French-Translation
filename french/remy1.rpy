@@ -1,5 +1,5 @@
-﻿# TODO: Translation updated at 2017-05-02 20:02
-
+﻿# TODO: Translation updated at 2017-05-02 20:02 
+# translator : Gone461
 # game/remy1.rpy:4
 translate frenchtl remyhints_76b2fe88:
 
