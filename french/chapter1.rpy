@@ -519,7 +519,7 @@ translate french holetravel_76b2fe88:
 translate french holetravel_7941b5bd:
 
     # Ry "In the name of our people, I bid you welcome. If I may introduce myself, I am Remy, your guide and ambassador - a representative of our council."
-    Ry "Au nom de notre peuple, je vous souhaite la bienvenue. Si je puis me présenter, je suis Rémi, votre guide et ambassadeur - un représentant de notre conseil."
+    Ry "Au nom de notre peuple, je vous souhaite la bienvenue. Si je puis me présenter, je suis Rémi, votre guide et ambassadeur et également un représentant de notre conseil."
 
 # game/chapter1.rpy:664
 translate french holetravel_b40dd6f0:
@@ -4775,6 +4775,10 @@ translate french strings:
     # chapter1.rpy:1653
     old "You were able to correctly identify our species based on what we look like, congratulations!"
     new "Vous avez été capable d'identifier correctement notre espèce en vous basant sur notre apparence, félicitations !"
+    
+    # chapter1.rpy:1653
+    old "Wait, where?"
+    new "Attends, où ça ?"
 
     # chapter1.rpy:1653
     old "Oh, it's a dragon!"
